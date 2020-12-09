@@ -3,6 +3,9 @@ import 'package:flutter/material.dart';
 
 /// selection dialog used for selection of the country code
 class SelectionDialog extends StatefulWidget {
+  // Customized dialogue option builder
+  final Function customizedOptionBuilder;
+
   final List<CountryCode> elements;
   final bool showCountryOnly;
   final InputDecoration searchDecoration;
@@ -23,6 +26,7 @@ class SelectionDialog extends StatefulWidget {
     this.elements,
     this.favoriteElements, {
     Key key,
+    this.customizedOptionBuilder,
     this.showCountryOnly,
     this.emptySearchBuilder,
     InputDecoration searchDecoration = const InputDecoration(),
@@ -127,6 +131,9 @@ class _SelectionDialogState extends State<SelectionDialog> {
       );
 
   Widget _buildOption(CountryCode e) {
+    if (widget.customizedOptionBuilder != null)
+      return widget.customizedOptionBuilder(
+          e, widget.flagWidth, widget.textStyle);
     return Container(
       width: 400,
       child: Flex(

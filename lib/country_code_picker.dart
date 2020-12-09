@@ -9,6 +9,9 @@ import 'package:modal_bottom_sheet/modal_bottom_sheet.dart';
 export 'country_code.dart';
 
 class CountryCodePicker extends StatefulWidget {
+  // Customized dialogue option builder
+  final Function customizedOptionBuilder;
+
   final ValueChanged<CountryCode> onChanged;
   final ValueChanged<CountryCode> onInit;
   final String initialSelection;
@@ -69,6 +72,7 @@ class CountryCodePicker extends StatefulWidget {
   final bool hideSearch;
 
   CountryCodePicker({
+    this.customizedOptionBuilder,
     this.onChanged,
     this.onInit,
     this.initialSelection,
