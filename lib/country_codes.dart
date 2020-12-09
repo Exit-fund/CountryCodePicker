@@ -1,6 +1,6 @@
 List<Map<String, String>> codes = [
   {
-    "name": "افغانستان",
+    "name": "Afghanistan",
     "code": "AF",
     "dial_code": "+93",
   },
@@ -15,7 +15,7 @@ List<Map<String, String>> codes = [
     "dial_code": "+355",
   },
   {
-    "name": "الجزائر",
+    "name": "Algeria",
     "code": "DZ",
     "dial_code": "+213",
   },
@@ -85,7 +85,7 @@ List<Map<String, String>> codes = [
     "dial_code": "+1242",
   },
   {
-    "name": "‏البحرين",
+    "name": "Bahrain",
     "code": "BH",
     "dial_code": "+973",
   },
@@ -315,7 +315,7 @@ List<Map<String, String>> codes = [
     "dial_code": "+593",
   },
   {
-    "name": "مصر‎",
+    "name": "Egypt",
     "code": "EG",
     "dial_code": "+20",
   },
@@ -330,7 +330,7 @@ List<Map<String, String>> codes = [
     "dial_code": "+240",
   },
   {
-    "name": "ኤርትራ",
+    "name": "Eritrea",
     "code": "ER",
     "dial_code": "+291",
   },
@@ -340,7 +340,7 @@ List<Map<String, String>> codes = [
     "dial_code": "+372",
   },
   {
-    "name": "ኢትዮጵያ",
+    "name": "Ethiopia",
     "code": "ET",
     "dial_code": "+251",
   },
@@ -350,7 +350,7 @@ List<Map<String, String>> codes = [
     "dial_code": "+500",
   },
   {
-    "name": "Føroyar",
+    "name": "Faroe Islands",
     "code": "FO",
     "dial_code": "+298",
   },
@@ -370,17 +370,17 @@ List<Map<String, String>> codes = [
     "dial_code": "+33",
   },
   {
-    "name": "Guyane française",
+    "name": "French Guiana",
     "code": "GF",
     "dial_code": "+594",
   },
   {
-    "name": "Polynésie française",
+    "name": "French Polynesia",
     "code": "PF",
     "dial_code": "+689",
   },
   {
-    "name": "Territoire des Terres australes et antarctiques fr",
+    "name": "French Southern and Antarctic Lands",
     "code": "TF",
     "dial_code": "+262",
   },
@@ -395,12 +395,12 @@ List<Map<String, String>> codes = [
     "dial_code": "+220",
   },
   {
-    "name": "საქართველო",
+    "name": "Georgia",
     "code": "GE",
     "dial_code": "+995",
   },
   {
-    "name": "Deutschland",
+    "name": "Germany",
     "code": "DE",
     "dial_code": "+49",
   },
@@ -415,7 +415,7 @@ List<Map<String, String>> codes = [
     "dial_code": "+350",
   },
   {
-    "name": "Ελλάδα",
+    "name": "Greece",
     "code": "GR",
     "dial_code": "+30",
   },
@@ -485,7 +485,7 @@ List<Map<String, String>> codes = [
     "dial_code": "+504",
   },
   {
-    "name": "香港",
+    "name": "Hong Kong",
     "code": "HK",
     "dial_code": "+852",
   },
@@ -495,12 +495,12 @@ List<Map<String, String>> codes = [
     "dial_code": "+36",
   },
   {
-    "name": "Ísland",
+    "name": "Iceland",
     "code": "IS",
     "dial_code": "+354",
   },
   {
-    "name": "भारत",
+    "name": "India",
     "code": "IN",
     "dial_code": "+91",
   },
@@ -510,12 +510,12 @@ List<Map<String, String>> codes = [
     "dial_code": "+62",
   },
   {
-    "name": "ایران",
+    "name": "Iran",
     "code": "IR",
     "dial_code": "+98",
   },
   {
-    "name": "العراق",
+    "name": "Iraq",
     "code": "IQ",
     "dial_code": "+964",
   },
@@ -535,7 +535,7 @@ List<Map<String, String>> codes = [
     "dial_code": "+972",
   },
   {
-    "name": "Italia",
+    "name": "Italy",
     "code": "IT",
     "dial_code": "+39",
   },
@@ -545,7 +545,7 @@ List<Map<String, String>> codes = [
     "dial_code": "+1876",
   },
   {
-    "name": "日本",
+    "name": "Japan",
     "code": "JP",
     "dial_code": "+81",
   },
@@ -555,12 +555,12 @@ List<Map<String, String>> codes = [
     "dial_code": "+44",
   },
   {
-    "name": "الأردن",
+    "name": "Jordan",
     "code": "JO",
     "dial_code": "+962",
   },
   {
-    "name": "Қазақстан",
+    "name": "Kazakhstan",
     "code": "KZ",
     "dial_code": "+7",
   },
@@ -575,32 +575,32 @@ List<Map<String, String>> codes = [
     "dial_code": "+686",
   },
   {
-    "name": "북한",
+    "name": "North Korea",
     "code": "KP",
     "dial_code": "+850",
   },
   {
-    "name": "대한민국",
+    "name": "South Korea",
     "code": "KR",
     "dial_code": "+82",
   },
   {
-    "name": "Republika e Kosovës",
+    "name": "Kosovo",
     "code": "XK",
     "dial_code": "+383",
   },
   {
-    "name": "الكويت",
+    "name": "Kuwait",
     "code": "KW",
     "dial_code": "+965",
   },
   {
-    "name": "Кыргызстан",
+    "name": "Kyrgyzstan",
     "code": "KG",
     "dial_code": "+996",
   },
   {
-    "name": "ສປປລາວ",
+    "name": "Laos",
     "code": "LA",
     "dial_code": "+856",
   },
@@ -610,7 +610,7 @@ List<Map<String, String>> codes = [
     "dial_code": "+371",
   },
   {
-    "name": "لبنان",
+    "name": "Lebanon",
     "code": "LB",
     "dial_code": "+961",
   },
@@ -625,7 +625,7 @@ List<Map<String, String>> codes = [
     "dial_code": "+231",
   },
   {
-    "name": "‏ليبيا",
+    "name": "Libya",
     "code": "LY",
     "dial_code": "+218",
   },
@@ -645,17 +645,17 @@ List<Map<String, String>> codes = [
     "dial_code": "+352",
   },
   {
-    "name": "澳門",
+    "name": "Macao, China",
     "code": "MO",
     "dial_code": "+853",
   },
   {
-    "name": "Македонија",
+    "name": "North Macedonia",
     "code": "MK",
     "dial_code": "+389",
   },
   {
-    "name": "Madagasikara",
+    "name": "Madagascar",
     "code": "MG",
     "dial_code": "+261",
   },
@@ -695,7 +695,7 @@ List<Map<String, String>> codes = [
     "dial_code": "+596",
   },
   {
-    "name": "موريتانيا",
+    "name": "Moritani",
     "code": "MR",
     "dial_code": "+222",
   },
@@ -710,7 +710,7 @@ List<Map<String, String>> codes = [
     "dial_code": "+262",
   },
   {
-    "name": "México",
+    "name": "Mexico",
     "code": "MX",
     "dial_code": "+52",
   },
@@ -745,7 +745,7 @@ List<Map<String, String>> codes = [
     "dial_code": "+1664",
   },
   {
-    "name": "المغرب",
+    "name": "Morocco",
     "code": "MA",
     "dial_code": "+212",
   },
@@ -830,7 +830,7 @@ List<Map<String, String>> codes = [
     "dial_code": "+47",
   },
   {
-    "name": "عمان",
+    "name": "Omman",
     "code": "OM",
     "dial_code": "+968",
   },
@@ -845,7 +845,7 @@ List<Map<String, String>> codes = [
     "dial_code": "+680",
   },
   {
-    "name": "فلسطين",
+    "name": "Palestine",
     "code": "PS",
     "dial_code": "+970",
   },
@@ -900,17 +900,17 @@ List<Map<String, String>> codes = [
     "dial_code": "+1787",
   },
   {
-    "name": "قطر",
+    "name": "Qatar",
     "code": "QA",
     "dial_code": "+974",
   },
   {
-    "name": "România",
+    "name": "Romania",
     "code": "RO",
     "dial_code": "+40",
   },
   {
-    "name": "Россия",
+    "name": "Russia",
     "code": "RU",
     "dial_code": "+7",
   },
@@ -975,7 +975,7 @@ List<Map<String, String>> codes = [
     "dial_code": "+239",
   },
   {
-    "name": "العربية السعودية",
+    "name": "Saudi Arabia",
     "code": "SA",
     "dial_code": "+966",
   },
@@ -1050,7 +1050,7 @@ List<Map<String, String>> codes = [
     "dial_code": "+94",
   },
   {
-    "name": "السودان",
+    "name": "Sudan",
     "code": "SD",
     "dial_code": "+249",
   },
@@ -1080,12 +1080,12 @@ List<Map<String, String>> codes = [
     "dial_code": "+41",
   },
   {
-    "name": "سوريا",
+    "name": "Syria",
     "code": "SY",
     "dial_code": "+963",
   },
   {
-    "name": "臺灣",
+    "name": "Taiwan",
     "code": "TW",
     "dial_code": "+886",
   },
@@ -1130,7 +1130,7 @@ List<Map<String, String>> codes = [
     "dial_code": "+1868",
   },
   {
-    "name": "تونس",
+    "name": "Tunisia",
     "code": "TN",
     "dial_code": "+216",
   },
@@ -1165,7 +1165,7 @@ List<Map<String, String>> codes = [
     "dial_code": "+380",
   },
   {
-    "name": "دولة الإمارات العربية المتحدة",
+    "name": "United Arab Emirates",
     "code": "AE",
     "dial_code": "+971",
   },
@@ -1220,7 +1220,7 @@ List<Map<String, String>> codes = [
     "dial_code": "+681",
   },
   {
-    "name": "اليَمَن",
+    "name": "Yemen",
     "code": "YE",
     "dial_code": "+967",
   },
