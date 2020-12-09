@@ -253,6 +253,7 @@ class CountryCodePickerState extends State<CountryCodePicker> {
         child: SelectionDialog(
           elements,
           favoriteElements,
+          customizedOptionBuilder: widget.customizedOptionBuilder,
           showCountryOnly: widget.showCountryOnly,
           emptySearchBuilder: widget.emptySearchBuilder,
           searchDecoration: widget.searchDecoration,
